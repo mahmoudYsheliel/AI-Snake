@@ -1,7 +1,6 @@
 # 🐍 Vue 3 Snake Game with AI (Deep Q-Learning)
 
-![Screencast from 06-13-2025 08-37-07 PM](https://github.com/user-attachments/assets/05ebdefd-7306-475b-9aa7-d0b6510724a4)
-
+![Screencast from 06-13-2025 08-37-07 PM (1)](https://github.com/user-attachments/assets/c27ff911-acab-413d-a4a2-f554e55e338a)
 
 
 A browser-based Snake Game built with **Vue 3**, **TypeScript**, and a custom **Deep Q-Network (DQN)** AI. The AI learns to play the game by rewarding itself for eating food and penalizing for crashing.
