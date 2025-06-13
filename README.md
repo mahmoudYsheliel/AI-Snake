@@ -44,6 +44,11 @@ Each is encoded as `1` or `-1` based on the game state.
 - `-1`: Game over  
 - `0`: Normal move
 
+  ### Methodology:
+  - Use custom method to gain some experience
+  - Update Q network using custom experience
+  - Use epsillon to move from random action to Q network result
+
 ---
 
 ## 📂 Project Structure
